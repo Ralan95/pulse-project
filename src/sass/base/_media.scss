@@ -91,14 +91,21 @@
 
         &__subheader {
             font-size: 14px;
+            text-align: center;
         }
 
         &__link {
             font-size: 12px;
+        }
+
+        &__icons {
+            width: 300px;
         }
     }
 
     .title {
         font-size: 20px;
     }
+
+
 }
